@@ -1,0 +1,17 @@
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\3Descargas\3Descargas\bin\Debug\net10.0\3Descargas.exe
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\3Descargas\3Descargas\bin\Debug\net10.0\3Descargas.deps.json
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\3Descargas\3Descargas\bin\Debug\net10.0\3Descargas.runtimeconfig.json
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\3Descargas\3Descargas\bin\Debug\net10.0\3Descargas.runtimeconfig.dev.json
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\3Descargas\3Descargas\bin\Debug\net10.0\3Descargas.dll
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\3Descargas\3Descargas\bin\Debug\net10.0\3Descargas.pdb
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\3Descargas\3Descargas\obj\Debug\net10.0\3Descargas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\3Descargas\3Descargas\obj\Debug\net10.0\3Descargas.AssemblyInfoInputs.cache
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\3Descargas\3Descargas\obj\Debug\net10.0\3Descargas.AssemblyInfo.cs
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\3Descargas\3Descargas\obj\Debug\net10.0\3Descargas.csproj.CoreCompileInputs.cache
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\3Descargas\3Descargas\obj\Debug\net10.0\3Descargas.sourcelink.json
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\3Descargas\3Descargas\obj\Debug\net10.0\3Descargas.dll
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\3Descargas\3Descargas\obj\Debug\net10.0\refint\3Descargas.dll
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\3Descargas\3Descargas\obj\Debug\net10.0\3Descargas.pdb
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\3Descargas\3Descargas\obj\Debug\net10.0\3Descargas.genruntimeconfig.cache
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\3Descargas\3Descargas\obj\Debug\net10.0\ref\3Descargas.dll
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\3Descargas\3Descargas\obj\Debug\net10.0\3Descargas.csproj.Up2Date
