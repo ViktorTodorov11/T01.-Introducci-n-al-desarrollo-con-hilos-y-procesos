@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Lanzar un proceso/1.0.0": {
+        "runtime": {
+          "Lanzar un proceso.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lanzar un proceso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

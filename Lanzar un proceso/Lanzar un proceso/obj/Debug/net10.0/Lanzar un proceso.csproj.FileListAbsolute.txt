@@ -1,0 +1,17 @@
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\Lanzar un proceso\Lanzar un proceso\bin\Debug\net10.0\Lanzar un proceso.exe
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\Lanzar un proceso\Lanzar un proceso\bin\Debug\net10.0\Lanzar un proceso.deps.json
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\Lanzar un proceso\Lanzar un proceso\bin\Debug\net10.0\Lanzar un proceso.runtimeconfig.json
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\Lanzar un proceso\Lanzar un proceso\bin\Debug\net10.0\Lanzar un proceso.runtimeconfig.dev.json
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\Lanzar un proceso\Lanzar un proceso\bin\Debug\net10.0\Lanzar un proceso.dll
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\Lanzar un proceso\Lanzar un proceso\bin\Debug\net10.0\Lanzar un proceso.pdb
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\Lanzar un proceso\Lanzar un proceso\obj\Debug\net10.0\Lanzar un proceso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\Lanzar un proceso\Lanzar un proceso\obj\Debug\net10.0\Lanzar un proceso.AssemblyInfoInputs.cache
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\Lanzar un proceso\Lanzar un proceso\obj\Debug\net10.0\Lanzar un proceso.AssemblyInfo.cs
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\Lanzar un proceso\Lanzar un proceso\obj\Debug\net10.0\Lanzar un proceso.csproj.CoreCompileInputs.cache
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\Lanzar un proceso\Lanzar un proceso\obj\Debug\net10.0\Lanzar un proceso.sourcelink.json
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\Lanzar un proceso\Lanzar un proceso\obj\Debug\net10.0\Lanzar un proceso.dll
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\Lanzar un proceso\Lanzar un proceso\obj\Debug\net10.0\refint\Lanzar un proceso.dll
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\Lanzar un proceso\Lanzar un proceso\obj\Debug\net10.0\Lanzar un proceso.pdb
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\Lanzar un proceso\Lanzar un proceso\obj\Debug\net10.0\Lanzar un proceso.genruntimeconfig.cache
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\Lanzar un proceso\Lanzar un proceso\obj\Debug\net10.0\ref\Lanzar un proceso.dll
+C:\Users\vtodorov\Documents\GitHub\T01.-Introducci-n-al-desarrollo-con-hilos-y-procesos\Lanzar un proceso\Lanzar un proceso\obj\Debug\net10.0\Lanzar u.E29721D5.Up2Date
